@@ -1,4 +1,4 @@
-# Mitchell-Test-Vehicle
+# Vehicle
 Vehicle Restful Web Service performs CRUD
 I used:
 - Eclipse JavaEE IDE,
